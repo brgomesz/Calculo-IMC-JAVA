@@ -1,0 +1,14 @@
+
+public class Pessoa {
+
+	
+	public double CalculaIMC (double P, double A) {
+		
+		return (P / (A*A));
+		
+			}
+	
+	
+	
+}
+
